@@ -1,1 +1,126 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>법률 정보 | [PoliceMonkeyGame]</title>
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Apple SD Gothic Neo,Noto Sans KR,sans-serif;margin:0;background:#fff;color:#111;}
+    .wrap{max-width:900px;margin:0 auto;padding:24px 18px;}
+    h1{font-size:22px;margin:0 0 12px;}
+    h2{margin-top:28px;padding-top:14px;border-top:1px solid #ddd;}
+    .meta{font-size:13px;color:#555;margin-bottom:18px;}
+    .toc a{display:inline-block;margin:6px 10px 6px 0;color:#0b57d0;text-decoration:none;font-weight:700;}
+    pre{white-space:pre-wrap;word-break:break-word;font-size:14px;line-height:1.65;background:#f7f7f7;padding:14px;border-radius:10px;}
+    .small{font-size:12px;color:#666;margin-top:10px;}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>법률 정보</h1>
+    <div class="meta">최종 업데이트: 2026-02-28</div>
 
+    <div class="toc">
+      <a href="#privacy">개인정보 처리방침</a>
+      <a href="#terms">이용약관</a>
+      <a href="#credits">저작권/크레딧</a>
+    </div>
+
+    <h2 id="privacy">개인정보 처리방침 (Privacy Policy)</h2>
+    <pre>
+개인정보 처리방침 (Privacy Policy)
+시행일자 (Effective Date): 2026-02-28
+
+1. 수집하는 정보
+당사는 다음 정보를 수집할 수 있습니다:
+- 기기 정보 (OS, 기기 모델, IP 일부)
+- 광고 식별자 (AAID / IDFA)
+- 게임 이용 기록
+- 결제 기록
+
+광고 및 분석 SDK:
+- Google AdMob
+- AppLovin
+- Unity Ads
+- Firebase Analytics
+
+※ 직접적인 개인식별정보(이름, 주민등록번호 등)는 수집하지 않습니다.
+2. 정보 이용 목적
+- 게임 서비스 제공 및 운영
+- 광고 제공 및 최적화
+- 통계 분석 및 서비스 개선
+- 부정행위 방지
+3. 제3자 제공
+광고 및 분석 제공업체는 자체 개인정보처리방침에 따라 정보를 처리합니다.
+4. 14세 미만 아동 보호
+본 서비스는 14세 미만 아동을 대상으로 하지 않습니다.
+14세 미만 이용자의 개인정보를 의도적으로 수집하지 않습니다.
+5. 이용자의 권리
+이용자는 개인정보 열람, 수정, 삭제 요청을 할 수 있습니다.
+
+English Version
+This Privacy Policy applies to the mobile game '[Game Name]'.
+We may collect device information, advertising identifiers, gameplay data, and purchase records.
+We use Google AdMob, AppLovin, Unity Ads, and Firebase Analytics.
+The Service is not directed to children under 14.
+For inquiries: [antoinokang@gmail.com]
+
+    </pre>
+
+    <h2 id="terms">이용약관 (Terms of Service)</h2>
+이용약관 (Terms of Service)
+시행일자 (Effective Date): 2026-02-28
+
+1. 서비스 이용
+이용자는 본 약관에 동의함으로써 서비스를 이용할 수 있습니다.
+부정행위, 해킹, 버그 악용은 금지됩니다.
+2. 가상 아이템 및 결제
+유료 아이템은 Google Play 및 Apple App Store 환불 정책을 따릅니다.
+3. 책임의 제한
+서비스는 '있는 그대로' 제공되며, 간접적 손해에 대해 책임지지 않습니다.
+4. 14세 미만 이용자
+14세 미만 이용자는 법정대리인의 동의가 필요합니다.
+English Version
+By using this Service, you agree to these Terms.
+Unauthorized activities such as hacking or exploiting bugs are prohibited.
+Paid items follow Google Play / Apple refund policies.
+The Service is provided 'as is'.
+Users under 14 require parental consent.
+    <pre>
+
+
+    </pre>
+<h2 id="credits">저작권 / 크레딧 (Credits)</h2>
+
+Assets / VFX
+
+Cartoon FX Remaster FREE — Jean Moreno — Unity Asset Store (Standard Unity Asset Store EULA)
+
+Audio
+
+Mixkit — Licensed under Mixkit License (Free License items)
+
+Pixabay — Licensed under Pixabay Content License
+
+중요 공지
+
+“각 리소스는 게임에 포함되어 제공되며, 원본 파일 자체의 재배포/재판매는 하지 않습니다.” (Pixabay standalone 금지 취지 반영)
+    
+    <pre>
+[VFX]
+- Cartoon FX Remaster FREE — Jean Moreno — Unity Asset Store (Unity Asset Store EULA)
+
+[Audio]
+- Mixkit (Mixkit License)
+- Pixabay (Pixabay Content License)
+
+[Notes]
+- 각 리소스는 게임 내에 포함된 형태로 사용되며, 원본 파일 자체의 재배포/재판매는 하지 않습니다.
+    </pre>
+
+    <div class="small">
+   문의 이메일: [antoinokang@gmail.com] / antogames
+    </div>
+  </div>
+</body>
+</html>
